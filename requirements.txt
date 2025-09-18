@@ -1,0 +1,5 @@
+fastapi==0.115.0          # Main API framework
+uvicorn==0.30.1           # Server to run FastAPI
+pandas==2.2.2             # For reading/manipulating CSVs/Excel
+numpy==1.26.4             # Numerical operations, used by pandas
+python-multipart==0.0.9   # For file uploads (CSV etc.)
