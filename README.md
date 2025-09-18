@@ -1,4 +1,5 @@
 TalentRecs 🎯
+
 📌 Overview
 
 TalentRecs is a full-stack job recommendation system.
@@ -68,4 +69,5 @@ Database integration (Postgres/MongoDB)
 Resume parsing
 
 📜 License
+
 This project is licensed under the MIT License.
