@@ -57,24 +57,7 @@ Upload candidate/job CSV via frontend or API.
 Backend processes embeddings → similarity scores.
 Frontend displays ranked candidates with explanations & charts.
 
-📂 Folder Structure
 
-TalentRecs/
-|
-│
-├── src/                  # Backend
-│   ├── main.py           # FastAPI entry point
-│   ├── utils.py          # Helper functions
-│   ├── embedding_utils.py# Embedding logic
-│   └── ranking.py        # Candidate ranking
-│
-├── talentrecs-frontend/  # React frontend
-│   ├── public/           # index.html, manifest, favicon
-│   └── src/              # React components, styles
-│
-├── requirements.txt
-├── package.json
-└── README.md
 
 
 🔮 Future Enhancements
