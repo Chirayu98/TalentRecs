@@ -18,3 +18,8 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Node / React
+node_modules/
+build/
+dist/
